@@ -1,0 +1,37 @@
+.fundoBarbados {
+  width: 100px;
+  height: 200px;
+  float: left;
+}
+
+.fundoLibanoP {
+  width: 300px;
+  height: 50px;
+}
+
+.fundoLibanoG {
+  width: 300px;
+  height: 100px;
+}
+
+.azul{
+  background-color: rgb(0, 38, 127);
+}
+.amarelo{
+  background-color:  rgb(255, 199, 38);
+}
+.vermelho{
+  background-color: rgb(204, 5, 5);
+}
+
+.branco{
+  background-color: white;
+}
+
+section {
+  float: left;
+  margin: 50px;
+}
+.fundo{
+  border: 1px solid black
+}

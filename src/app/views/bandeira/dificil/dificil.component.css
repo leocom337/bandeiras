@@ -1,0 +1,130 @@
+.fundo{
+  border: 1px solid black
+}
+
+.fundoBrasil{
+  width: 300px;
+	height: 200px;
+}
+
+.cubo{
+  width: 100px;
+	height: 100px;
+  float: left;
+}
+
+.vertical{
+  position: relative;
+  width: 100px;
+	height: 20px;
+  top: 40%;
+}
+
+.horozontal{
+  position: relative;
+  top: -20px;
+  left: 40%;
+  width: 20px;
+	height: 100px;
+
+}
+
+.retangulo{
+  position: relative;
+  width: 150px;
+	height: 108px;
+  float: left;
+}
+
+.listraC{
+  position: relative;
+  width: 200px;
+  left: 100px;
+	height: 20px;
+}
+
+.listraL{
+  position: relative;
+  width: 300px;
+	height: 20px;
+}
+
+.listraP{
+  position: relative;
+  width: 150px;
+  left: 50%;
+	height: 15.4px;
+}
+
+.listraG{
+  position: relative;
+  width: 300px;
+	height: 15.4px;
+}
+
+section {
+  float: left;
+  margin: 50px;
+}
+
+.losango{
+	position: relative;
+	left: 50%;
+  top: 15%;
+  width: 0px;
+	transform: translateX(-50%);
+	border-left: 120px solid transparent;
+	border-right: 120px solid transparent;
+	border-bottom: 70px solid yellow;
+}
+
+.losango-baixo{
+	position: relative;
+	left: 50%;
+  top: 15%;
+  width: 0px;
+	transform: translateX(-50%) rotate(180deg);
+	border-left: 120px solid transparent;
+	border-right: 120px solid transparent;
+	border-bottom: 70px solid yellow;
+}
+
+.circulo{
+	position: relative;
+	top: -40px;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+
+	overflow: hidden;
+}
+
+
+
+.azulClaro{
+  background-color: rgb(13, 94, 175);
+}
+.azul{
+  background-color: rgb(0, 38, 127);
+}
+.amarelo{
+  background-color:  rgb(255, 199, 38);
+}
+.vermelho{
+  background-color: rgb(204, 5, 5);
+}
+
+.verde{
+  background-color: green;
+}
+
+.branco{
+  background-color: white;
+}
+
+
+
+
+

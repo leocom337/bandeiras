@@ -1,0 +1,54 @@
+.fundoDinarmaca {
+  width: 300px;
+  height: 200px;
+}
+
+.listraHorizontalDinarmaca{
+  width: 40px;
+  height: 200px;
+  position: relative;
+  top: -40px;
+  left: 80px;
+}
+
+.listraVerticalDinarmaca{
+  width: 300px;
+  height: 40px;
+  position: relative;
+  top: 80px;
+
+}
+
+section {
+  float: left;
+  margin: 50px;
+}
+
+.fundoUcrania {
+  width: 300px;
+  height: 100px;
+}
+
+.fundoRussia {
+  width: 300px;
+  height: 66px;
+}
+
+.azul{
+  background-color: rgb(0, 87, 184);
+}
+.amarelo{
+  background-color:  rgb(255, 215, 0);
+}
+
+.vermelho{
+  background-color: red;
+}
+
+.branco{
+ background-color: white;
+}
+
+.fundo{
+  border: 1px solid black
+}
